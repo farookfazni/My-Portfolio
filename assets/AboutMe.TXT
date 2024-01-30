@@ -1,0 +1,16 @@
+Motivated AI/ML Engineer with one year of hands-on experience. Proficient in leveraging the Azure cloud platform, 
+specializing in Azure Synapse Analytics using Pyspark and SQL. Enthusiastic about the field of AI, 
+I am currently delving into advanced topics such as Transformers, Generative AI, and LLMs to expand my knowledge base. 
+Possessing a solid foundation, I also have basic proficiency in popular machine learning and deep learning libraries such 
+as TensorFlow and Scikit-Learn. Eager to contribute to innovative projects and continuously enhance my skills in the 
+dynamic field of artificial intelligence.
+
+
+
+
+
+
+
+A BSc(Hons) Computer Science & Technology graduate at the Uva Wellassa University of Sri Lanka and an AI/ML Engineer 
+at Virtusa. I'm interested in Artificial Intelligence and data Science. Have work Experience in Azure Synapse, and 
+Azure DevOps. I have worked with Tools like Pyspark, Pandas, TensorFlow, Keras, Scikit Learn, Numpy, etc...
